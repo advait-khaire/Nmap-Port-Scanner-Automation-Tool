@@ -1,9 +1,9 @@
 Certainly! Below is the `README.md` formatted text for your GitHub page.
 
-```markdown
 # Nmap Port Scanner Automation Tool
 
-Welcome to the nmap port scanner automation tool! This project provides a simple Python-based interface for automating various types of network scans using the Nmap tool.
+This is an nmap port scanner automation tool.
+This project provides a simple Python-based interface for automating various types of network scans using the Nmap tool.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
