@@ -1,5 +1,3 @@
-Certainly! Below is the `README.md` formatted text for your GitHub page.
-
 # Nmap Port Scanner Automation Tool
 
 This is an nmap port scanner automation tool.
